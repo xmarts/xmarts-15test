@@ -1,0 +1,4 @@
+[submodule "xmarts/xma_project"]
+	path = xmarts/xma_project
+	url = git@github.com:xmarts/xma_project.git
+	branch = 15.0-josuealfaro
